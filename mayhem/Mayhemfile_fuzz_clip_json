@@ -1,0 +1,9 @@
+project: savantenvs/libopenshot
+target: fuzz_clip_json
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_clip_json/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_clip_json
+    libfuzzer: true
+    timeout: 20

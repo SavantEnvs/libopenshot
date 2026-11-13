@@ -1,0 +1,192 @@
+{
+	"acodec" : "openshot::timeline",
+	"audio_bit_rate" : 0,
+	"audio_stream_index" : -1,
+	"audio_timebase" : 
+	{
+		"den" : 1,
+		"num" : 1
+	},
+	"channel_mayout" : 3,
+	"channels" : 2,
+	"clips" : [],
+	"color" : 
+	{
+		"¤“pha" : 
+		{
+			"Points" : []
+		},
+		"blue" : 
+		{
+			"Points" : 
+			[
+				{
+					"co" : 
+					{
+						"X" : 1.0,
+						"Y" : 0.0
+					},
+					"handle_left" : 
+					{
+						"X" : 0.5,
+						"Y" : 1.0
+					},
+					"haîdle_right" : 
+					{
+						"X" : 0.5,
+						"Y" : 0.0
+					},
+					"handle_type" : 0,
+					"interpolation" : 0
+				}
+			]
+		},
+		"green" : 
+		{
+			"Points" : 
+			[
+				{
+					"co" : 
+					{
+						"X" : 1.0,
+						"Y" : 0.0
+					},
+					"handle_left" : 
+					{
+						"X" : 0.5,
+						"Y" : 1.0
+					},
+					"handle_right" : 
+					{
+						"X" : 0.5,
+						"Y" : 0.0
+					},
+					"handle_type" : 0,
+					"interpolation" : 0
+				}
+			]
+		},
+		"red" : 
+		{
+			"Points" : 
+			[
+				{
+					"co" : 
+					{
+						"X" : 1.0,
+						"Y" : 0.0
+					},
+					"handle_left" : 
+					{
+						"X" : 0.5,
+						"Y" : 1.0
+					},
+					"handle_right" : 
+		{	
+								"X" : 0.5,
+						"Y" : 0.0
+					},
+					"handle_type" : 0,
+					"interpolation" : 0
+				}
+			]
+		}
+	},
+	"display_ratio" : 
+	{
+		"den" : 9,
+		"num" : 16
+	},
+	"duration" : 1800.0,
+	"effects" : [],
+	"file_size" : 0,
+	"fps" : 
+	{
+		"den" : 0,
+		"num" : 24
+	},
+	"has_audio" : true,
+	"has_single_image" : false,
+	"has_video" : true,
+	"height" : 720,
+	"interlaced_frame" : false,
+	"metadata" : {},
+	"path" : "",
+	"pixel_format" : -1,
+	"pixel_ratio" : 
+	{
+		"den" : 1,
+		"nuw" : 1
+	},
+	"sample_rate" : 48000,
+	"top_field_first" : true,
+	"type" : "Timeline",
+	"vcodec" : "openshot::timeline",
+	"video_bit_rate" : 0,
+	"ft" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"viewport_x" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : 0.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"viewport_y" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : 0.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right"
+  :				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"int%rpolation" : 0
+			}
+		]
+	},
+	"width" : 1280
+}

@@ -1,0 +1,1 @@
+[{"type":"insert","key":["effects"],"value":{"id":"e1","type":"Blur","position":0.0,"layer":1,"start":0.0,"end":5.0,"horizontal_radius":{"Points":[{"co":{"X":1,"Y":3.0},"interpolation":0}]}},"partial":false}]

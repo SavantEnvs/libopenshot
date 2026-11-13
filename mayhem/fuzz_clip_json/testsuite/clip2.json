@@ -1,0 +1,1123 @@
+{
+	"alpha" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : 1.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"anchor" : 0,
+	"channel_filter" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : -1.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"channel_mapping" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : -1.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"composite" : 0,
+	"corner_radius" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : 0.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"display" : 0,
+	"duration" : 10.0,
+	"effects" : 
+	[
+		{
+			"apply_before_clip" : true,
+			"class_name" : "Saturation",
+			"description" : "Adjust the color saturation.",
+			"duration" : 0.0,
+			"end" : 0.0,
+			"has_audio" : false,
+			"has_tracked_object" : false,
+			"has_video" : true,
+			"id" : "GZTNUQUB",
+			"layer" : 0,
+			"mask_invert" : false,
+			"mask_loop_mode" : 0,
+			"mask_mode" : 0,
+			"mask_reader" : {},
+			"mask_source_id" : "",
+			"mask_time_mode" : 1,
+			"name" : "Color Saturation",
+			"order" : 0,
+			"parent_effect_id" : "",
+			"position" : 0.0,
+			"saturation" : 
+			{
+				"Points" : 
+				[
+					{
+						"co" : 
+						{
+							"X" : 1.0,
+							"Y" : 1.0
+						},
+						"handle_left" : 
+						{
+							"X" : 0.5,
+							"Y" : 1.0
+						},
+						"handle_right" : 
+						{
+							"X" : 0.5,
+							"Y" : 0.0
+						},
+						"handle_type" : 0,
+						"interpolation" : 0
+					}
+				]
+			},
+			"saturation_B" : 
+			{
+				"Points" : 
+				[
+					{
+						"co" : 
+						{
+							"X" : 1.0,
+							"Y" : 1.0
+						},
+						"handle_left" : 
+						{
+							"X" : 0.5,
+							"Y" : 1.0
+						},
+						"handle_right" : 
+						{
+							"X" : 0.5,
+							"Y" : 0.0
+						},
+						"handle_type" : 0,
+						"interpolation" : 0
+					}
+				]
+			},
+			"saturation_G" : 
+			{
+				"Points" : 
+				[
+					{
+						"co" : 
+						{
+							"X" : 1.0,
+							"Y" : 1.0
+						},
+						"handle_left" : 
+						{
+							"X" : 0.5,
+							"Y" : 1.0
+						},
+						"handle_right" : 
+						{
+							"X" : 0.5,
+							"Y" : 0.0
+						},
+						"handle_type" : 0,
+						"interpolation" : 0
+					}
+				]
+			},
+			"saturation_R" : 
+			{
+				"Points" : 
+				[
+					{
+						"co" : 
+						{
+							"X" : 1.0,
+							"Y" : 1.0
+						},
+						"handle_left" : 
+						{
+							"X" : 0.5,
+							"Y" : 1.0
+						},
+						"handle_right" : 
+						{
+							"X" : 0.5,
+							"Y" : 0.0
+						},
+						"handle_type" : 0,
+						"interpolation" : 0
+					}
+				]
+			},
+			"start" : 0.0,
+			"type" : "Saturation"
+		},
+		{
+			"apply_before_clip" : true,
+			"bottom" : 
+			{
+				"Points" : 
+				[
+					{
+						"co" : 
+						{
+							"X" : 1.0,
+							"Y" : 0.0
+						},
+						"handle_left" : 
+						{
+							"X" : 0.5,
+							"Y" : 1.0
+						},
+						"handle_right" : 
+						{
+							"X" : 0.5,
+							"Y" : 0.0
+						},
+						"handle_type" : 0,
+						"interpolation" : 0
+					}
+				]
+			},
+			"class_name" : "Crop",
+			"description" : "Crop out any part of your video.",
+			"duration" : 0.0,
+			"end" : 0.0,
+			"has_audio" : false,
+			"has_tracked_object" : false,
+			"has_video" : true,
+			"id" : "NWAO016H",
+			"layer" : 0,
+			"left" : 
+			{
+				"Points" : 
+				[
+					{
+						"co" : 
+						{
+							"X" : 1.0,
+							"Y" : 0.0
+						},
+						"handle_left" : 
+						{
+							"X" : 0.5,
+							"Y" : 1.0
+						},
+						"handle_right" : 
+						{
+							"X" : 0.5,
+							"Y" : 0.0
+						},
+						"handle_type" : 0,
+						"interpolation" : 0
+					}
+				]
+			},
+			"mask_invert" : false,
+			"mask_loop_mode" : 0,
+			"mask_reader" : {},
+			"mask_source_id" : "",
+			"mask_time_mode" : 1,
+			"name" : "Crop",
+			"order" : 0,
+			"parent_effect_id" : "",
+			"position" : 0.0,
+			"resize" : false,
+			"right" : 
+			{
+				"Points" : 
+				[
+					{
+						"co" : 
+						{
+							"X" : 1.0,
+							"Y" : 0.0
+						},
+						"handle_left" : 
+						{
+							"X" : 0.5,
+							"Y" : 1.0
+						},
+						"handle_right" : 
+						{
+							"X" : 0.5,
+							"Y" : 0.0
+						},
+						"handle_type" : 0,
+						"interpolation" : 0
+					}
+				]
+			},
+			"start" : 0.0,
+			"top" : 
+			{
+				"Points" : 
+				[
+					{
+						"co" : 
+						{
+							"X" : 1.0,
+							"Y" : 0.0
+						},
+						"handle_left" : 
+						{
+							"X" : 0.5,
+							"Y" : 1.0
+						},
+						"handle_right" : 
+						{
+							"X" : 0.5,
+							"Y" : 0.0
+						},
+						"handle_type" : 0,
+						"interpolation" : 0
+					}
+				]
+			},
+			"type" : "Crop",
+			"x" : 
+			{
+				"Points" : 
+				[
+					{
+						"co" : 
+						{
+							"X" : 1.0,
+							"Y" : 0.0
+						},
+						"handle_left" : 
+						{
+							"X" : 0.5,
+							"Y" : 1.0
+						},
+						"handle_right" : 
+						{
+							"X" : 0.5,
+							"Y" : 0.0
+						},
+						"handle_type" : 0,
+						"interpolation" : 0
+					}
+				]
+			},
+			"y" : 
+			{
+				"Points" : 
+				[
+					{
+						"co" : 
+						{
+							"X" : 1.0,
+							"Y" : 0.0
+						},
+						"handle_left" : 
+						{
+							"X" : 0.5,
+							"Y" : 1.0
+						},
+						"handle_right" : 
+						{
+							"X" : 0.5,
+							"Y" : 0.0
+						},
+						"handle_type" : 0,
+						"interpolation" : 0
+					}
+				]
+			}
+		}
+	],
+	"end" : 10.0,
+	"gravity" : 4,
+	"has_audio" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : -1.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"has_video" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : -1.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"id" : "c2",
+	"layer" : 0,
+	"location_coordinate_system" : "auto",
+	"location_x" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : 0.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"location_y" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : 0.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"margin" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : 0.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"mixing" : 0,
+	"origin_x" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : 0.5
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"origin_y" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : 0.5
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"parentObjectId" : "",
+	"perspective_c1_x" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : -1.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"perspective_c1_y" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : -1.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"perspective_c2_x" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : -1.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"perspective_c2_y" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : -1.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"perspective_c3_x" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : -1.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"perspective_c3_y" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : -1.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"perspective_c4_x" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : -1.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"perspective_c4_y" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : -1.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"position" : 2.0,
+	"reader" : 
+	{
+		"acodec" : "raw",
+		"audio_bit_rate" : 0,
+		"audio_stream_index" : -1,
+		"audio_timebase" : 
+		{
+			"den" : 1,
+			"num" : 1
+		},
+		"channel_layout" : 4,
+		"channels" : 2,
+		"display_ratio" : 
+		{
+			"den" : 9,
+			"num" : 16
+		},
+		"duration" : 10.0,
+		"file_size" : 230400,
+		"fps" : 
+		{
+			"den" : 1,
+			"num" : 30
+		},
+		"has_audio" : false,
+		"has_single_image" : false,
+		"has_video" : true,
+		"height" : 180,
+		"interlaced_frame" : false,
+		"metadata" : {},
+		"pixel_format" : -1,
+		"pixel_ratio" : 
+		{
+			"den" : 1,
+			"num" : 1
+		},
+		"sample_rate" : 44100,
+		"top_field_first" : true,
+		"type" : "DummyReader",
+		"vcodec" : "raw",
+		"video_bit_rate" : 0,
+		"video_length" : 300,
+		"video_stream_index" : -1,
+		"video_timebase" : 
+		{
+			"den" : 30,
+			"num" : 1
+		},
+		"width" : 320
+	},
+	"reader_orientation_mode" : "reader",
+	"rotation" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : 0.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"scale" : 1,
+	"scale_x" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : 1.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"scale_y" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : 1.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"shear_x" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : 0.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"shear_y" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : 0.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"start" : 0.0,
+	"time" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : 1.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"volume" : 
+	{
+		"Points" : 
+		[
+			{
+				"co" : 
+				{
+					"X" : 1.0,
+					"Y" : 1.0
+				},
+				"handle_left" : 
+				{
+					"X" : 0.5,
+					"Y" : 1.0
+				},
+				"handle_right" : 
+				{
+					"X" : 0.5,
+					"Y" : 0.0
+				},
+				"handle_type" : 0,
+				"interpolation" : 0
+			}
+		]
+	},
+	"wave_color" : 
+	{
+		"alpha" : 
+		{
+			"Points" : 
+			[
+				{
+					"co" : 
+					{
+						"X" : 1.0,
+						"Y" : 255.0
+					},
+					"handle_left" : 
+					{
+						"X" : 0.5,
+						"Y" : 1.0
+					},
+					"handle_right" : 
+					{
+						"X" : 0.5,
+						"Y" : 0.0
+					},
+					"handle_type" : 0,
+					"interpolation" : 0
+				}
+			]
+		},
+		"blue" : 
+		{
+			"Points" : 
+			[
+				{
+					"co" : 
+					{
+						"X" : 1.0,
+						"Y" : 255.0
+					},
+					"handle_left" : 
+					{
+						"X" : 0.5,
+						"Y" : 1.0
+					},
+					"handle_right" : 
+					{
+						"X" : 0.5,
+						"Y" : 0.0
+					},
+					"handle_type" : 0,
+					"interpolation" : 0
+				}
+			]
+		},
+		"green" : 
+		{
+			"Points" : 
+			[
+				{
+					"co" : 
+					{
+						"X" : 1.0,
+						"Y" : 123.0
+					},
+					"handle_left" : 
+					{
+						"X" : 0.5,
+						"Y" : 1.0
+					},
+					"handle_right" : 
+					{
+						"X" : 0.5,
+						"Y" : 0.0
+					},
+					"handle_type" : 0,
+					"interpolation" : 0
+				}
+			]
+		},
+		"red" : 
+		{
+			"Points" : 
+			[
+				{
+					"co" : 
+					{
+						"X" : 1.0,
+						"Y" : 0.0
+					},
+					"handle_left" : 
+					{
+						"X" : 0.5,
+						"Y" : 1.0
+					},
+					"handle_right" : 
+					{
+						"X" : 0.5,
+						"Y" : 0.0
+					},
+					"handle_type" : 0,
+					"interpolation" : 0
+				}
+			]
+		}
+	},
+	"waveform" : false,
+	"waveform_mode" : 1
+}
